@@ -1,0 +1,1 @@
+var baseUrl = "http://www.zgaccount.com";
